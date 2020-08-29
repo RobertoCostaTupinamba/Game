@@ -1,2 +1,2 @@
 # Game
-Um jogo pika
+Um jogo de RPG 
